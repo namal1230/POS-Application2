@@ -1,0 +1,24 @@
+.navbar>li>a{
+    color: #F5ECD5;
+}
+
+.navbar-section{
+    width: 100vw;
+    background-color: #F0BB78;
+}
+
+body{
+    background-color: #FFFDF6;
+}
+
+#customer-found{
+    display: none;
+}
+
+#item-found{
+    display: none;
+}
+
+#itemQty-found{
+    display: none;
+}
