@@ -1,6 +1,11 @@
 # POS Application
 
-A Point of Sale (POS) system built with HTML, CSS, JavaScript, and Bootstrap. This application provides a user-friendly interface for managing customers, items, and orders.
+<img width="1912" height="1025" alt="Screenshot 2026-09-11 220600" src="https://github.com/user-attachments/assets/a014bddb-a272-4514-86c4-2878e6b379c4" />
+<img width="1917" height="1015" alt="Screenshot 2026-09-11 220639" src="https://github.com/user-attachments/assets/48299137-8343-4761-908c-c58db777b3a5" />
+Real time values update
+<img width="1911" height="1018" alt="Screenshot 2026-09-11 220709" src="https://github.com/user-attachments/assets/b141f2dd-ae93-4b68-84ac-89cbc26b7ddc" />
+
+A Point of Sale (POS) system built with HTML, CSS, JavaScript, and Bootstrap, JQuery. This application provides a user-friendly interface for managing customers, items, and orders.
 
 ## Features
 
